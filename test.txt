@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-commit to branch
-=======
-
-commit to master
->>>>>>> refs/remotes/origin/master
+adapated to branch after merge
